@@ -1,5 +1,7 @@
 # QR code generator Javascript ES6 module
 
+Example on [codepen](https://codepen.io/sorcererinferior/pen/rNdLqyd?editors=0010)
+
 # A spiritual fork of QRious - qrious es6
 I needed es6 modules compatible version of the project QRious.
 
