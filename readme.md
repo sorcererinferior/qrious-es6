@@ -43,7 +43,7 @@ Here is the format if you want jsdelivr:
 
 ```javascript
 
-import { QRious } from "https://cdn.jsdelivr.net/gh/sorcererinferior/QRious-es6@main/qrious.js"
+import { QRious } from "https://cdn.jsdelivr.net/gh/sorcererinferior/qrious-es6@main/qrious.js"
 
 ```
 
